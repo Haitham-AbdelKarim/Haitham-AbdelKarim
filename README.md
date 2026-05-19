@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/haitham-mohamed-b34231237">
+  <a href="https://linkedin.com/in/haitham-abdelkarim/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="/cdn-cgi/l/email-protection#533b323a273b323e3e3c323137363f3832213a3e13343e323a3f7d303c3e">
@@ -19,10 +19,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Bachelor of **Computer Engineering** from **Cairo University** (2019–2024) — Very Good with honors
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **NLP**, and **Computer Vision**
 - 🔧 Backend experience with **.NET Core**, **Entity Framework**, and **SQL Server**
-- 📱 Mobile development with **Flutter** & **Firebase**
-
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **NLP**, and **Computer Vision**
 ---
 
 ## 🛠️ Tech Stack
@@ -52,17 +50,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haitham-AbdelKarim&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham-AbdelKarim&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [haithammoabdelkarim@gmail.com](mailto:haithammoabdelkarim@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/haitham-mohamed-b34231237](https://linkedin.com/in/haitham-mohamed-b34231237)
+- 💼 LinkedIn: [linkedin.com/in/haitham-abdelkarim/](https://linkedin.com/in/haitham-abdelkarim/)
 
